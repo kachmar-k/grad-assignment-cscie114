@@ -1,0 +1,5 @@
+node_modules/
+.cache/
+.eleventy-cache/
+public
+src/gatsby-types.d.ts
